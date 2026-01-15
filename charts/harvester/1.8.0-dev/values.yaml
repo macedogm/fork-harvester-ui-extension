@@ -4,9 +4,9 @@ plugin:
   enabled: true
   versionOverride: ""
   endpoint: >-
-    https://raw.githubusercontent.com/harvester/harvester-ui-extension/main-head/extensions/harvester/1.8.0-dev
+    https://raw.githubusercontent.com/macedogm/fork-harvester-ui-extension/main-head/extensions/harvester/1.8.0-dev
   compressedEndpoint: >-
-    https://raw.githubusercontent.com/harvester/harvester-ui-extension/main-head/extensions/harvester/1.8.0-dev.tgz
+    https://raw.githubusercontent.com/macedogm/fork-harvester-ui-extension/main-head/extensions/harvester/1.8.0-dev.tgz
   noCache: false
   noAuth: false
   metadata:
